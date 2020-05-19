@@ -21,3 +21,4 @@ if __name__ == '__main__':
     del Andrey.filhos
     print(Andrey.__dict__)
     print(Kaleu.__dict__)
+
